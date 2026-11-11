@@ -2,6 +2,8 @@
 
 A browser-based Etch-a-Sketch drawing app built with HTML, CSS, and vanilla JavaScript. Hover over the grid to draw, and press Reset to wipe the board clean.
 
+**Live demo:** https://shivambangade.github.io/etch-a-sketch/
+
 ## Features
 
 - Custom grid size — enter any value from 1 to 60 when the page loads
@@ -11,7 +13,7 @@ A browser-based Etch-a-Sketch drawing app built with HTML, CSS, and vanilla Java
 
 ## How to Run
 
-Open `index.html` in any modern browser. You'll be prompted for a grid size, and the board will be ready to draw on.
+Play it online at https://shivambangade.github.io/etch-a-sketch/, or open `index.html` locally in any modern browser. You'll be prompted for a grid size, and the board will be ready to draw on.
 
 ## How It Works
 
